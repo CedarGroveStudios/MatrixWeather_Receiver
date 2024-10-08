@@ -6,4 +6,4 @@
 
 ...
 
-![Image of Module]([https://github.com/CedarGroveStudios/MatrixWeather_Receiver/blob/main/photos_and_graphics/IMG_2366.jpeg])
+![Image of Module](https://github.com/CedarGroveStudios/MatrixWeather_Receiver/blob/main/photos_and_graphics/IMG_2366.jpeg)
