@@ -1,0 +1,12 @@
+CIRCUITPY_WIFI_SSID="SSID"
+CIRCUITPY_WIFI_PASSWORD="password"
+
+CIRCUITPY_WEB_API_PASSWORD="passw0rd"
+CIRCUITPY_WEB_API_PORT=80
+
+location="Seattle, WA, US"
+observation_station="KSEA"
+timezone="America/LosAngeles"
+
+AIO_USERNAME="user"
+AIO_KEY="crazylongkeycodegoeshere"
